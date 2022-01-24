@@ -1,1 +1,1 @@
-# Horiseon-Accessibilty
+# Horiseon-Accessibility
